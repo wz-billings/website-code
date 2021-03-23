@@ -85,12 +85,12 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "wz.billings@gmail.com"
-phone = "(980) 241-7815"
+email = "Wesley.Billings@uga.edu"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "245 Memorial Drive, Ste 9417", city = "Cullowhee", region = "NC", postcode = "28723", country = "United States", country_code = "US"}
+address = {street = "Miller Hall Room 106, 101 Buck Rd", city = "Athens", region = "GA", postcode = "30602", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -134,7 +134,7 @@ time_format = "15:04"
 
 # List delimiter (separates parts of an address)
 # Popular separators are ", " (comma), "<br>" (new line), " " (space)
-list_delimiter = ", "
+list_delimiter = "<br>"
 
 ############################
 ## Advanced

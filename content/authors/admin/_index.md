@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Biostats PhD Student!!
+role: Biostatistics PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Georgia College of Public Health
+- name: University of Georgia, College of Public Health
   url: "https://publichealth.uga.edu/departments/epidemiology-biostatistics/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,13 +24,13 @@ interests:
 - Statistics and data analysis
 - Biological modeling
 - R Programming
-- Math/Stats pegagogy
+- Math/Stats pedagogy
 
 education:
   courses:
-  - course: PhD in Biostatistics
+  - course: Ph.D., Epidemiology and Biostatistics
     institution: University of Georgia
-  - course: B.S. in Mathematics and Biology
+  - course: B.S., Mathematics and Biology
     institution: Western Carolina University
     year: 2020
 
@@ -51,9 +51,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/zane-b/
-- icon: cv
-  icon_pack: ai
-  link: files/Billings_CV_v2.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/Billings_CV_v2.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,8 +65,10 @@ user_groups:
 - Visitors
 ---
 
-Zane Billings is a first-year PhD student in the Epidemiology and Biostatistics program at the University of Georgia. He has experience in R programming, scientific computing, differential equation models, and data analysis. He obtained his undergraduate degree in mathematics and biology at Western Carolina University, where his research primarily focused on keratin based modulation of the autophagy pathway.
+Zane Billings is a PhD student in the Epidemiology and Biostatistics program at the University of Georgia, focusing on biostatistics. He has experience in R programming, scientific computing, and data analysis. Previously, Zane obtained his undergraduate degree in mathematics and biology at Western Carolina University, where his research primarily focused on keratin based modulation of the autophagy pathway. Now he is happy to never have to do wet lab research again.
 
 Zane has participated in two REU programs, [Math-Biology at UNCG](http://www.uncg.edu/mat/bio-math/REU/people.html) and [Population Biology of Infectious Diseases at UGA](http://reu.ecology.uga.edu/). Additionally, Zane was the TA for a course on scientific computing for three semesters at WCU. His previous work, employment, etc. can be accessed through the projects and links pages here, or through the outgoing links to the left. 
+
+He current works in [Dr. Andreas Handel's research group](http://handelgroup.publichealth.uga.edu/).
 
 This website is still under construction, so expect updates!
