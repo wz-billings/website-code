@@ -134,7 +134,7 @@ time_format = "15:04"
 
 # List delimiter (separates parts of an address)
 # Popular separators are ", " (comma), "<br>" (new line), " " (space)
-list_delimiter = "<br>"
+list_delimiter = ", "
 
 ############################
 ## Advanced
