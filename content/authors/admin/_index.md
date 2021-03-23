@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:wz.billings@gmail.com'
+  link: 'mailto:Wesley.Billings@uga.edu'
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-0184-6134
