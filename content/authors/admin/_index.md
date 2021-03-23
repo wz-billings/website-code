@@ -67,8 +67,6 @@ user_groups:
 
 Zane Billings is a PhD student in the Epidemiology and Biostatistics program at the University of Georgia, focusing on biostatistics. He has experience in R programming, scientific computing, and data analysis. Previously, Zane obtained his undergraduate degree in mathematics and biology at Western Carolina University, where his research primarily focused on keratin based modulation of the autophagy pathway. Now he is happy to never have to do wet lab research again.
 
-Zane has participated in two REU programs, [Math-Biology at UNCG](http://www.uncg.edu/mat/bio-math/REU/people.html) and [Population Biology of Infectious Diseases at UGA](http://reu.ecology.uga.edu/). Additionally, Zane was the TA for a course on scientific computing for three semesters at WCU. His previous work, employment, etc. can be accessed through the projects and links pages here, or through the outgoing links to the left. 
-
-He current works in [Dr. Andreas Handel's research group](http://handelgroup.publichealth.uga.edu/).
+Zane has participated in two REU programs, [Math-Biology at UNCG](http://www.uncg.edu/mat/bio-math/REU/people.html) and [Population Biology of Infectious Diseases at UGA](http://reu.ecology.uga.edu/). Additionally, Zane was the TA for a course on scientific computing for three semesters at WCU. He current works in [Dr. Andreas Handel's research group](http://handelgroup.publichealth.uga.edu/).
 
 This website is still under construction, so expect updates!
