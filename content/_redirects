@@ -1,0 +1,5 @@
+http://wz-billings.rbind.io/* https://wz-billings.rbind.io/:splat 301!
+
+https://jovial-elion-a7a437.netlify.com/* https://wz-billings.rbind.io/:splat 301!
+
+http://jovial-elion-a7a437.netlify.com/* http://wz-billings.rbind.io/:splat 301!
