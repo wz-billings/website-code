@@ -50,7 +50,7 @@ social:
   link: https://github.com/wz-billings
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/zane-b/
+  link: https://www.linkedin.com/in/wz-billings/
 #- icon: cv
 #  icon_pack: ai
 #  link: files/Billings_CV_v2.pdf
