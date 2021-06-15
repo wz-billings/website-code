@@ -18,18 +18,19 @@ organizations:
   url: "https://publichealth.uga.edu/departments/epidemiology-biostatistics/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Biostatistics PhD student at the University of Georgia. My main interests are statistical data analysis and infectious diseases.
+bio: I am a Biostatistics PhD student at the University of Georgia. My main interests are data analysis and modeling in the context of better understanding infectious diseases (mainly flu) and vaccine response.
 
 interests:
-- Statistics and data analysis
-- Biological modeling
-- R Programming
+- Data analysis and modeling
+- Seasonal influenza vaccines
+- The `R` Programming Language
 - Math/Stats pedagogy
 
 education:
   courses:
   - course: Ph.D., Epidemiology and Biostatistics
     institution: University of Georgia
+    year: Present
   - course: B.S., Mathematics and Biology
     institution: Western Carolina University
     year: 2020
@@ -65,7 +66,7 @@ user_groups:
 - Visitors
 ---
 
-Zane Billings is a PhD student in the Epidemiology and Biostatistics program at the University of Georgia, focusing on biostatistics. He has experience in R programming, scientific computing, and data analysis. Previously, Zane obtained his undergraduate degree in mathematics and biology at Western Carolina University, where his research primarily focused on keratin based modulation of the autophagy pathway. Now he is happy to stay in the office and type code on his computer instead of doing wet lab research.
+Zane Billings is a PhD student working with Andreas Handel at the University of Georgia (Department of Epidemiology & Biostatistics). He has experience in R programming, scientific computing, and data analysis. Previously, Zane obtained his undergraduate degree in mathematics and biology at Western Carolina University, where his research primarily focused on modulation of the autophagy pathway by keratin proteins. Now he has transitioned to more theoretical work, focusing on data analytics related to the seasonal influenza vaccine.
 
 Zane has participated in two REU programs, [Math-Biology at UNCG](http://www.uncg.edu/mat/bio-math/REU/people.html) and [Population Biology of Infectious Diseases at UGA](http://reu.ecology.uga.edu/). Additionally, Zane was the TA for a course on scientific computing for three semesters at WCU. He currently works in [Dr. Andreas Handel's research group](http://handelgroup.publichealth.uga.edu/). Also check out his [two sequences on the OEIS](https://oeis.org/search?q=W.+Zane+Billings&language=english&go=Search)!
 
