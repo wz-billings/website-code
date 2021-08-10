@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Biostatistics PhD Student
+role: Epi/Bios PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,17 +18,18 @@ organizations:
   url: "https://publichealth.uga.edu/departments/epidemiology-biostatistics/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Biostatistics PhD student at the University of Georgia. My main interests are data analysis and modeling in the context of better understanding infectious diseases (mainly flu) and vaccine response.
+bio: I am a PhD student in the Department of Epidemiology & Biostatistics, College of Public Health, University of Georgia, Athens, GA, USA, Earth, etc. My degree concentration is in data analysis and modeling, and my main research interests are doing those two things in the context of infectious disease (mainly flu) and vaccine response.
 
 interests:
 - Data analysis and modeling
 - Seasonal influenza vaccines
+- Influenza epidemiology
 - The `R` Programming Language
 - Math/Stats pedagogy
 
 education:
   courses:
-  - course: Ph.D., Epidemiology and Biostatistics
+  - course: Ph.D., Epidemiology & Biostatistics
     institution: University of Georgia
     year: Present
   - course: B.S., Mathematics and Biology
@@ -52,6 +53,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/wz-billings/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/wzbillings
 #- icon: cv
 #  icon_pack: ai
 #  link: files/Billings_CV_v2.pdf
